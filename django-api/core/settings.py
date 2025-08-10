@@ -170,3 +170,4 @@ if CORS_ALLOWED_ORIGINS_ENV:
 
 TESTING = False
 TEST_RUNNER = "core.test_runner.CoreTestRunner"
+SESSION_COOKIE_SECURE = True
